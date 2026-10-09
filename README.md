@@ -75,7 +75,13 @@ Sou desenvolvedor web Full Stack Júnior. Trabalho com a stack web moderna, do f
       <h3><a href="https://github.com/jooaoantoniio/Curso-harve">Curso Harve</a></h3>
       Repositório com atividades do curso. Ainda sem descrição detalhada.
     </td>
-    <td width="50%"></td>
+    <td width="50%" valign="top">
+      <h3><a href="https://projetoharve.vercel.app">Projeto HARVE</a></h3>
+      Página "Olá mundo" com visual futurista, publicada na Vercel.<br/><br/>
+      <img src="assets/icons/html5.svg" width="22" height="22" alt="HTML5"/> HTML5&emsp;
+      <img src="assets/icons/css3.svg" width="22" height="22" alt="CSS3"/> CSS3&emsp;
+      <img src="assets/icons/javascript.svg" width="22" height="22" alt="JavaScript"/> JavaScript
+    </td>
   </tr>
 </table>
 
