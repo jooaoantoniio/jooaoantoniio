@@ -25,11 +25,11 @@ Sou desenvolvedor web Full Stack Júnior. Trabalho com a stack web moderna, do f
 
 | Categoria | Tecnologias |
 | --- | --- |
-| **Front-end** | <img src="https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5&logoColor=3B82F6" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-161B22?style=flat-square&logo=css3&logoColor=3B82F6" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=3B82F6" alt="JavaScript"/> <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3B82F6" alt="TypeScript"/> <img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=3B82F6" alt="React"/> <img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=3B82F6" alt="Next.js"/> |
-| **Back-end** | <img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=3B82F6" alt="Node.js"/> <img src="https://img.shields.io/badge/Express-161B22?style=flat-square&logo=express&logoColor=3B82F6" alt="Express"/> |
-| **Dados** | <img src="https://img.shields.io/badge/SQL-161B22?style=flat-square" alt="SQL"/> <img src="https://img.shields.io/badge/Supabase-161B22?style=flat-square&logo=supabase&logoColor=3B82F6" alt="Supabase"/> |
-| **Ferramentas** | <img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=3B82F6" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=3B82F6" alt="GitHub"/> |
-| **IA** | <img src="https://img.shields.io/badge/IA%20aplicada%20ao%20desenvolvimento-161B22?style=flat-square" alt="IA aplicada ao desenvolvimento"/> |
+| **Front-end** | <img src="assets/icons/html5.svg" width="24" height="24" alt="HTML5"/> HTML5&emsp;<img src="assets/icons/css3.svg" width="24" height="24" alt="CSS3"/> CSS3&emsp;<img src="assets/icons/javascript.svg" width="24" height="24" alt="JavaScript"/> JavaScript&emsp;<img src="assets/icons/typescript.svg" width="24" height="24" alt="TypeScript"/> TypeScript&emsp;<img src="assets/icons/react.svg" width="24" height="24" alt="React"/> React&emsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/nextdotjs-dark.svg"/><img src="assets/icons/nextdotjs.svg" width="24" height="24" alt="Next.js"/></picture> Next.js |
+| **Back-end** | <img src="assets/icons/nodedotjs.svg" width="24" height="24" alt="Node.js"/> Node.js&emsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/express-dark.svg"/><img src="assets/icons/express.svg" width="24" height="24" alt="Express"/></picture> Express |
+| **Dados** | SQL&emsp;<img src="assets/icons/supabase.svg" width="24" height="24" alt="Supabase"/> Supabase |
+| **Ferramentas** | <img src="assets/icons/git.svg" width="24" height="24" alt="Git"/> Git&emsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/github-dark.svg"/><img src="assets/icons/github.svg" width="24" height="24" alt="GitHub"/></picture> GitHub |
+| **IA** | IA aplicada ao desenvolvimento |
 
 ---
 
@@ -40,41 +40,40 @@ Sou desenvolvedor web Full Stack Júnior. Trabalho com a stack web moderna, do f
     <td width="50%" valign="top">
       <h3><a href="https://github.com/jooaoantoniio/jp-help-desk">JP Help Desk</a></h3>
       Sistema de Service Desk de TI para abrir, atribuir, acompanhar e encerrar chamados, com perfis de acesso, histórico por chamado e dashboard de indicadores.<br/><br/>
-      <img src="https://img.shields.io/badge/.NET%2010-161B22?style=flat-square&logo=dotnet&logoColor=3B82F6" alt=".NET 10"/>
-      <img src="https://img.shields.io/badge/Angular-161B22?style=flat-square&logo=angular&logoColor=3B82F6" alt="Angular"/>
-      <img src="https://img.shields.io/badge/SQL%20Server-161B22?style=flat-square" alt="SQL Server"/>
-      <img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=3B82F6" alt="Docker"/>
+      <img src="assets/icons/dotnet.svg" width="22" height="22" alt=".NET"/> .NET 10&emsp;
+      <img src="assets/icons/angular.svg" width="22" height="22" alt="Angular"/> Angular&emsp;
+      <img src="assets/icons/microsoftsqlserver.svg" width="22" height="22" alt="SQL Server"/> SQL Server&emsp;
+      <img src="assets/icons/docker.svg" width="22" height="22" alt="Docker"/> Docker
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/jooaoantoniio/project-de-sistema-financeiro">Sistema Financeiro</a></h3>
       Protótipo de sistema financeiro em HTML, CSS e JavaScript, com telas de login, dashboard, transações e calculadora.<br/><br/>
-      <img src="https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5&logoColor=3B82F6" alt="HTML5"/>
-      <img src="https://img.shields.io/badge/CSS3-161B22?style=flat-square&logo=css3&logoColor=3B82F6" alt="CSS3"/>
-      <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=3B82F6" alt="JavaScript"/>
+      <img src="assets/icons/html5.svg" width="22" height="22" alt="HTML5"/> HTML5&emsp;
+      <img src="assets/icons/css3.svg" width="22" height="22" alt="CSS3"/> CSS3&emsp;
+      <img src="assets/icons/javascript.svg" width="22" height="22" alt="JavaScript"/> JavaScript
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/jooaoantoniio/fincalc">FinCalc</a></h3>
       Calculadoras financeiras: juros compostos, parcelamento (Price e SAC), salário líquido CLT, orçamento pela regra 50/30/20 e metas de economia.<br/><br/>
-      <a href="https://jooaoantoniio.github.io/fincalc/"><img src="https://img.shields.io/badge/Demo-Online-161B22?style=flat-square&logo=githubpages&logoColor=3B82F6" alt="Demo online"/></a>
-      <img src="https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5&logoColor=3B82F6" alt="HTML5"/>
-      <img src="https://img.shields.io/badge/CSS3-161B22?style=flat-square&logo=css3&logoColor=3B82F6" alt="CSS3"/>
-      <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=3B82F6" alt="JavaScript"/>
+      <a href="https://jooaoantoniio.github.io/fincalc/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/githubpages-dark.svg"/><img src="assets/icons/githubpages.svg" width="22" height="22" alt="GitHub Pages"/></picture> Demo online</a>&emsp;
+      <img src="assets/icons/html5.svg" width="22" height="22" alt="HTML5"/> HTML5&emsp;
+      <img src="assets/icons/css3.svg" width="22" height="22" alt="CSS3"/> CSS3&emsp;
+      <img src="assets/icons/javascript.svg" width="22" height="22" alt="JavaScript"/> JavaScript
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/jooaoantoniio/Projetcs">DevJourney</a></h3>
       Portfólio e diário de estudos do curso, com linha do tempo, dashboard de progresso e gerenciador de tarefas de estudo com cronômetro. Sem frameworks e sem etapa de build.<br/><br/>
-      <img src="https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5&logoColor=3B82F6" alt="HTML5"/>
-      <img src="https://img.shields.io/badge/CSS3-161B22?style=flat-square&logo=css3&logoColor=3B82F6" alt="CSS3"/>
-      <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=3B82F6" alt="JavaScript"/>
+      <img src="assets/icons/html5.svg" width="22" height="22" alt="HTML5"/> HTML5&emsp;
+      <img src="assets/icons/css3.svg" width="22" height="22" alt="CSS3"/> CSS3&emsp;
+      <img src="assets/icons/javascript.svg" width="22" height="22" alt="JavaScript"/> JavaScript
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/jooaoantoniio/Curso-harve">Curso Harve</a></h3>
-      Repositório com atividades do curso. Ainda sem descrição detalhada.<br/><br/>
-      <img src="https://img.shields.io/badge/Curso-161B22?style=flat-square" alt="Curso"/>
+      Repositório com atividades do curso. Ainda sem descrição detalhada.
     </td>
     <td width="50%"></td>
   </tr>
