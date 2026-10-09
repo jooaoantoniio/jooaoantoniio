@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">João Antônio Proêncio - Desenvolvedor Web Full Stack Júnior</title>
+  <desc id="desc">Banner com nome e cargo em tons de preto, grafite e azul.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#1E3A8A"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="16" fill="none" stroke="#30363D"/>
+
+  <!-- grade discreta de fundo -->
+  <g stroke="#21262D" stroke-width="1">
+    <line x1="820" y1="0" x2="820" y2="300"/>
+    <line x1="900" y1="0" x2="900" y2="300"/>
+    <line x1="980" y1="0" x2="980" y2="300"/>
+    <line x1="1060" y1="0" x2="1060" y2="300"/>
+    <line x1="1140" y1="0" x2="1140" y2="300"/>
+    <line x1="820" y1="60" x2="1200" y2="60"/>
+    <line x1="820" y1="140" x2="1200" y2="140"/>
+    <line x1="820" y1="220" x2="1200" y2="220"/>
+  </g>
+
+  <!-- símbolo: colchetes de código -->
+  <g fill="none" stroke="#3B82F6" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="905,118 875,150 905,182"/>
+    <polyline points="1075,118 1105,150 1075,182"/>
+    <line x1="962" y1="104" x2="1018" y2="196"/>
+  </g>
+
+  <rect x="72" y="70" width="64" height="5" rx="2.5" fill="url(#accent)"/>
+
+  <text x="72" y="138" fill="#F0F6FC" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-1">João Antônio Proêncio</text>
+
+  <text x="72" y="186" fill="#3B82F6" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="26" font-weight="600">Desenvolvedor Web Full Stack Júnior</text>
+
+  <text x="72" y="236" fill="#8B949E" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="20">HTML · CSS · JavaScript · TypeScript · React · Next.js · Node.js · SQL</text>
+</svg>
