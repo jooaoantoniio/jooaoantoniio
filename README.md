@@ -7,7 +7,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=760&lines=Desenvolvedor+Web+Full+Stack+J%C3%BAnior;HTML%2C+CSS%2C+TypeScript+e+React;Criando+interfaces+e+sistemas+com+clareza" alt="Apresentação com efeito de digitação"/>
 
 <p>
-  <a href="https://github.com/jooaoantoniio"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=3B82F6" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B4nio-pro%C3%AAncio-a8a77524b/"><img src="assets/linkedin.svg" width="40" height="40" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/jooaoantoniio/"><img src="assets/instagram.svg" width="40" height="40" alt="Instagram"/></a>
 </p>
