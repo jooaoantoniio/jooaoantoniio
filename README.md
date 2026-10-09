@@ -8,8 +8,8 @@
 
 <p>
   <a href="https://github.com/jooaoantoniio"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=3B82F6" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B4nio-pro%C3%AAncio-a8a77524b/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=3B82F6" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/jooaoantoniio/"><img src="https://img.shields.io/badge/Instagram-161B22?style=flat-square&logo=instagram&logoColor=3B82F6" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B4nio-pro%C3%AAncio-a8a77524b/"><img src="assets/linkedin.svg" width="40" height="40" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/jooaoantoniio/"><img src="assets/instagram.svg" width="40" height="40" alt="Instagram"/></a>
 </p>
 
 </div>
